@@ -1,0 +1,38 @@
+Mary:893-0234:Realtor:F:25:50:
+Fred:897-2033:Boulder Crusher:M:17:50:
+Barney:234-2342:Professional bowler:F:17:35:
+Jeff:582-0934:Math Teacher:M:16:40:
+Nancy:297-0033:Software Programmer:F:30:55:
+Ted:134-9342:Database Developer:M:38:40:
+Lewis:193-1234:Counselor:M:18:45:
+Robert:097-0033:Accounts Supervisor:M:16:40:
+Alex:934-9342:Animal Technician:M:17:46:
+Bob:182-0034:Appraiser:M:22:40:
+Ashley:997-3333:Administrative clerk:F:12:40:
+George:034-7042:Admission Advisor:M:17:40:
+Mind:093-0034:Banker:F:30:46:
+Olivia:097-0003:Banquet Chef:M:13:50:
+Emily:034-8042:Billing Manager:F:14:40:
+Wes:082-9990:Bookkeeper:M:10:40:
+Cart:207-9933:Attorney:F:40:50:
+Tom:034-0042:Dancer:M:16:40:
+Elias:093-6604:Dental Clerk:M:14:48:
+Adam:7777-2233:Environmental Consultant:M:20:30:
+Yusuf:834-0942:Environmental Associate:M:16:30:
+Bob:182-0034:Mail Clerk:M:11:40:
+Allen:057-1100:Market Manager:M:22:40:
+Lukas:934-1242:Mechanical Engineer:M:27:45:
+Judy:225-3876:Database Developer:F:30:45:
+Brian:223-5234:Counselor:M:22:40:
+Tim:225-1992:Accounts Supervisor:M:20:30:
+Mat:224-5015:Software Programmer:M:28:40:
+Abby:225-3098:Realtor:F:28:30:
+Bruce:225-1986:English Teacher:M:18:40:
+Steve:225-2031:IT Manager:F:33:47:
+Kevin:225-6601:Store Manager:M:12:46:
+Anna:234-0987:safety Officer:F:16:40:
+Janet:340-9871:Sales Trainer:F:20:35:
+Joyce:345-0914:Health Director:F:30:45:
+Jean:234-7654:History Teacher:F:20:40:
+Kelly:230-1239:Family Nurse:F:32:45:
+Kathy:812-8712:Finance Advisor:F:33:46:

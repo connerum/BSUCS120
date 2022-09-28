@@ -1,0 +1,42 @@
+	The Weekly Payroll Report
+
+Name	Weekly Pay	Job Title
+____________________________________________
+Mary	$1375.0		Realtor
+Fred	$935.0		Boulder Crusher
+Barney	$595		Professional bowler
+Jeff	$640		Math Teacher
+Nancy	$1875.0		Software Programmer
+Ted	$1520		Database Developer
+Lewis	$855.0		Counselor
+Robert	$640		Accounts Supervisor
+Alex	$833.0		Animal Technician
+Bob	$880		Appraiser
+Ashley	$480		Administrative clerk
+George	$680		Admission Advisor
+Mind	$1470.0		Banker
+Olivia	$715.0		Banquet Chef
+Emily	$560		Billing Manager
+Wes	$400		Bookkeeper
+Cart	$2200.0		Attorney
+Tom	$640		Dancer
+Elias	$728.0		Dental Clerk
+Adam	$600		Environmental Consultant
+Yusuf	$480		Environmental Associate
+Bob	$440		Mail Clerk
+Allen	$880		Market Manager
+Lukas	$1282.5		Mechanical Engineer
+Judy	$1425.0		Database Developer
+Brian	$880		Counselor
+Tim	$600		Accounts Supervisor
+Mat	$1120		Software Programmer
+Abby	$840		Realtor
+Bruce	$720		English Teacher
+Steve	$1666.5		IT Manager
+Kevin	$588.0		Store Manager
+Anna	$640		safety Officer
+Janet	$700		Sales Trainer
+Joyce	$1425.0		Health Director
+Jean	$800		History Teacher
+Kelly	$1520.0		Family Nurse
+Kathy	$1617.0		Finance Advisor

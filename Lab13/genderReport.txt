@@ -1,0 +1,8 @@
+The employee gender's information report 
+
+
+There are total of 16 females' employees. 
+
+There are total of 22 males' employees. 
+
+There are 57% males and 42% females.
